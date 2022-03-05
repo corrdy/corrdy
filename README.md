@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @corrdy
 - 👀 I’m interested in AI Robotic
 - 🌱 I’m currently learning how to get started with Jetson Nano kit
-- 💞️ I’m looking to collaborate with my teammate and other developers
+- 💞️ I’m looking to collaborate with my teammates and other developers
 - 📫 How to reach me +1 346 561 1318
 
 <!---
