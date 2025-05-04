@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @corrdy
+- 👋 Hi, I’m Cordelia Omonkhegbe
 - 👀 I’m interested in AI Robotic
 - 🌱 I’m currently learning how to get started with Jetson Nano kit
 - 💞️ I’m looking to collaborate with my teammates and other developers
